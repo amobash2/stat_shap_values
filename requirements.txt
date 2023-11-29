@@ -1,0 +1,6 @@
+scikit-learn==1.1.1
+xgboost==1.7.6
+scipy==1.10.0
+catboost==1.2.2
+shap==0.41.0
+numpy==1.23.5

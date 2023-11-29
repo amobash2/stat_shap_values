@@ -1,0 +1,97 @@
+,FEATURE_NAME,FEATURE_IMPORTANCE,MODEL_INDEX
+0,deposit_type_Refundable,0.01858,1
+1,arrival_date_month_January,0.09502,1
+2,customer_type_Group,0.11995,1
+3,arrival_date_month_December,0.12698,1
+4,arrival_date_month_November,0.65898,1
+5,arrival_date_month_March,0.66248,1
+6,arrival_date_month_April,0.69507,1
+7,arrival_date_month_September,0.70363,1
+8,arrival_date_month_February,0.74711,1
+9,arrival_date_month_June,0.78267,1
+10,arrival_date_month_May,0.86203,1
+11,arrival_date_month_July,0.87844,1
+12,customer_type_Contract,0.93867,1
+13,arrival_date_month_October,0.93881,1
+14,arrival_date_month_August,1.20288,1
+15,customer_type_Transient-Party,3.93228,1
+16,customer_type_Transient,5.88966,1
+17,deposit_type_No Deposit,6.0197,1
+18,booking_changes,7.03711,1
+19,arrival_date_week_number,7.98507,1
+20,arrival_date_year,9.2202,1
+21,deposit_type_Non Refund,10.63032,1
+22,arrival_date_day_of_month,13.81948,1
+23,lead_time,26.0349,1
+0,customer_type_Group,0.002730000065639615,3
+1,deposit_type_Refundable,0.003019999945536256,3
+2,arrival_date_month_January,0.003109999932348728,3
+3,arrival_date_month_May,0.00343999988399446,3
+4,arrival_date_month_December,0.005119999870657921,3
+5,arrival_date_day_of_month,0.00570000009611249,3
+6,arrival_date_month_July,0.0063299997709691525,3
+7,arrival_date_month_August,0.0065899998880922794,3
+8,customer_type_Contract,0.006599999964237213,3
+9,arrival_date_week_number,0.006680000107735395,3
+10,arrival_date_month_April,0.006709999870508909,3
+11,customer_type_Transient-Party,0.00749000022187829,3
+12,arrival_date_month_June,0.00774999987334013,3
+13,arrival_date_month_September,0.008379999548196793,3
+14,arrival_date_month_March,0.00851999968290329,3
+15,arrival_date_month_November,0.008910000324249268,3
+16,lead_time,0.011850000359117985,3
+17,arrival_date_month_October,0.013170000165700912,3
+18,customer_type_Transient,0.01448999997228384,3
+19,booking_changes,0.014560000039637089,3
+20,arrival_date_month_February,0.014940000139176846,3
+21,arrival_date_year,0.017020000144839287,3
+22,deposit_type_No Deposit,0.08028999716043472,3
+23,deposit_type_Non Refund,0.7366099953651428,3
+0,deposit_type_Refundable,0.02423,2
+1,arrival_date_month_January,0.0498,2
+2,customer_type_Group,0.10561,2
+3,arrival_date_month_December,0.2243,2
+4,arrival_date_month_November,0.47854,2
+5,arrival_date_month_September,0.52442,2
+6,arrival_date_month_March,0.57773,2
+7,arrival_date_month_February,0.6656,2
+8,arrival_date_month_April,0.69078,2
+9,arrival_date_month_June,0.7366,2
+10,arrival_date_month_May,0.74355,2
+11,arrival_date_month_August,0.79998,2
+12,arrival_date_month_October,0.91148,2
+13,customer_type_Contract,0.9122,2
+14,arrival_date_month_July,1.08513,2
+15,customer_type_Transient-Party,4.52251,2
+16,customer_type_Transient,5.42085,2
+17,booking_changes,6.37217,2
+18,deposit_type_No Deposit,6.75571,2
+19,arrival_date_week_number,7.58533,2
+20,arrival_date_year,8.22024,2
+21,arrival_date_day_of_month,12.14959,2
+22,deposit_type_Non Refund,15.99958,2
+23,lead_time,24.44408,2
+0,arrival_date_month_January,0.0015800000401213765,4
+1,deposit_type_Refundable,0.002589999930933118,4
+2,deposit_type_No Deposit,0.00279999990016222,4
+3,customer_type_Group,0.0038900000508874655,4
+4,arrival_date_month_September,0.004110000096261501,4
+5,arrival_date_month_April,0.004989999812096357,4
+6,arrival_date_month_May,0.0051299999468028545,4
+7,arrival_date_month_August,0.005309999920427799,4
+8,customer_type_Contract,0.00559999980032444,4
+9,arrival_date_day_of_month,0.005619999952614307,4
+10,arrival_date_month_July,0.0059899999760091305,4
+11,arrival_date_week_number,0.006010000128298998,4
+12,arrival_date_month_March,0.0065899998880922794,4
+13,arrival_date_month_October,0.00675999978557229,4
+14,arrival_date_month_June,0.007040000054985285,4
+15,customer_type_Transient-Party,0.007300000172108412,4
+16,arrival_date_month_December,0.008259999565780163,4
+17,arrival_date_month_November,0.008320000022649765,4
+18,lead_time,0.011029999703168869,4
+19,arrival_date_month_February,0.012029999867081642,4
+20,booking_changes,0.013159999623894691,4
+21,customer_type_Transient,0.01460999995470047,4
+22,arrival_date_year,0.016019999980926514,4
+23,deposit_type_Non Refund,0.8352500200271606,4
