@@ -15,7 +15,7 @@ from scipy.stats import ttest_ind
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 MIN_OBSERVATION_PER_CAT = 50
-NUM_FOLDS = 2
+NUM_FOLDS = 10
 RANDOM_STATE = 1234
 
 class CalStatistics:
